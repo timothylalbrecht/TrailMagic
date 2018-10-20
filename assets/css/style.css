@@ -1,0 +1,69 @@
+body{
+    background: url(../images/hik.jpg);
+    
+}
+header{
+    padding: 2px;
+    font-family: cursive;
+    text-align: center;
+    font-size: 75px;
+    color:burlywood; 
+    font-style: italic;
+    text-shadow: 4px 4px 6px burlywood;
+}
+.map1{
+    margin-left: 50px;
+    margin-top: 50px;
+    color: brown;
+    font-size: 20px;
+    background-color: black;
+    width: 300px;
+    float: left;
+
+}
+.Search{
+    margin-top: 10px;
+    margin-left: 500px;
+}
+#img{
+    width: 30px;
+    height: 30px;
+}
+.map2{
+    float: right;
+    color: aliceblue;
+    margin-right: 300px;
+    margin-top: 50px;
+    width: 200px;
+}
+#pic{
+    width: 500px;
+    height: 500px;
+}
+
+#num{
+    width: 150px;
+    height: 40px;
+    color: black;
+
+}
+
+.zip{
+   font-size: 14px; 
+   color: goldenrod;
+   text-align: left;
+   width: 280px;
+}
+#submit{
+    color:black;
+    background-color: green;
+   
+}
+#clear{
+
+    background-color:red;
+    color: black;
+
+
+
+}
